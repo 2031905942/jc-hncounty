@@ -1,7 +1,7 @@
 +++
-title = 'My First Post'
+title = '我的第一天'
 date = 2024-05-14T12:55:06+08:00
-draft = true
+draft = false
 +++
 ## Introduction
 
