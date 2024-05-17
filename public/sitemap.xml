@@ -2,61 +2,47 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>//localhost:1313/posts/chapter-6/</loc>
-    <lastmod>2017-04-14T11:25:05-04:00</lastmod>
+    <loc>/categories/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>//localhost:1313/</loc>
-    <lastmod>2017-04-14T11:25:05-04:00</lastmod>
+    <loc>/tags/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>//localhost:1313/posts/</loc>
-    <lastmod>2017-04-14T11:25:05-04:00</lastmod>
+    <loc>/senceintro/chapter-2/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>//localhost:1313/posts/chapter-5/</loc>
-    <lastmod>2017-04-13T11:15:58-04:00</lastmod>
+    <loc>/senceintro/chapter-3/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>//localhost:1313/posts/chapter-4/</loc>
-    <lastmod>2017-04-12T11:14:48-04:00</lastmod>
+    <loc>/senceintro/chapter-4/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>//localhost:1313/tags/scene/</loc>
-    <lastmod>2017-04-12T11:14:48-04:00</lastmod>
+    <loc>/senceintro/chapter-1/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>//localhost:1313/tags/</loc>
-    <lastmod>2017-04-12T11:14:48-04:00</lastmod>
+    <loc>/about/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>//localhost:1313/posts/chapter-3/</loc>
-    <lastmod>2017-04-11T11:13:32-04:00</lastmod>
+    <loc>/tags/%E6%99%AF%E5%8C%BA%E4%BB%8B%E7%BB%8D/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>//localhost:1313/posts/chapter-2/</loc>
-    <lastmod>2017-04-10T11:00:59-04:00</lastmod>
+    <loc>/senceintro/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>//localhost:1313/posts/chapter-1/</loc>
-    <lastmod>2017-04-09T10:58:08-04:00</lastmod>
+    <loc>/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>//localhost:1313/categories/</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>//localhost:1313/about/</loc>
+    <loc>/posts/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
