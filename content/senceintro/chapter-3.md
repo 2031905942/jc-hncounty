@@ -1,6 +1,6 @@
 ---
 description: "景区特色"
-featured_image: "/images/star.jpg"
+featured_image: "/images/ta.jpg"
 tags: ["景区介绍"]
 title: "第三部分: 景区特色"
 ---

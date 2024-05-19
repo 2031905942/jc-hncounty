@@ -2,16 +2,16 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>策划动态 on 红色脉动队</title>
-    <link>//localhost:1313/posts/</link>
+    <link>//localhost:1313/tags/%E7%AD%96%E5%88%92%E5%8A%A8%E6%80%81/</link>
     <description>Recent content in 策划动态 on 红色脉动队</description>
     <generator>Hugo</generator>
     <language>zh</language>
-    <atom:link href="//localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="//localhost:1313/tags/%E7%AD%96%E5%88%92%E5%8A%A8%E6%80%81/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>策划动态1</title>
-      <link>//localhost:1313/posts/chapter-1/</link>
+      <link>//localhost:1313/news/news-1/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/posts/chapter-1/</guid>
+      <guid>//localhost:1313/news/news-1/</guid>
       <description>何家冲红色旅游区特色标志建筑 人们所以为的巧合，也许并不是一次偶然。我们所有的不期而遇，不谋而合，我们所有的默契，以及我们相逢的脚步，也许都因为两个人早已经走在相同的轨道上。</description>
     </item>
   </channel>

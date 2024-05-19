@@ -1,6 +1,6 @@
 ---
 description: "景区历史"
-featured_image: "/images/star.jpg"
+featured_image: "/images/house.jpg"
 tags: ["景区介绍"]
 title: "第二部分: 景区历史"
 ---

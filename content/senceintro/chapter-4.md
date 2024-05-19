@@ -1,6 +1,6 @@
 ---
 description: "景区发展"
-featured_image: "/images/star.jpg"
+featured_image: "/images/green.jpg"
 tags: ["景区介绍"]
 title: "第四部分: 景区发展"
 ---
